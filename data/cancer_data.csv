@@ -1,0 +1,5 @@
+tumor_size,age,weight,smoker,family_history,alcohol_use,tipo_cancer
+2.5,45,70,0,1,0,0
+5.0,60,80,1,1,1,1
+1.2,35,60,0,0,0,0
+3.0,50,75,1,0,1,1
